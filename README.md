@@ -1,2 +1,2 @@
 # Waiting for instructions?
-GOTO [5off.github.io](https://5off.github.io)
+GOTO [5off.ru](https://5off.ru)
